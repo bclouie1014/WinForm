@@ -1,0 +1,15 @@
+C:\Users\Bingo\Documents\Visual Studio 2015\Projects\Trachtenberg\Trachtenberg\bin\Debug\Trachtenberg.exe.config
+C:\Users\Bingo\Documents\Visual Studio 2015\Projects\Trachtenberg\Trachtenberg\obj\Debug\Trachtenberg.exe
+C:\Users\Bingo\Documents\Visual Studio 2015\Projects\Trachtenberg\Trachtenberg\obj\Debug\Trachtenberg.xml
+C:\Users\Bingo\Documents\Visual Studio 2015\Projects\Trachtenberg\Trachtenberg\obj\Debug\Trachtenberg.pdb
+C:\Users\Bingo\Documents\Visual Studio 2015\Projects\Trachtenberg\Trachtenberg\bin\Debug\Trachtenberg.exe.manifest
+C:\Users\Bingo\Documents\Visual Studio 2015\Projects\Trachtenberg\Trachtenberg\bin\Debug\Trachtenberg.application
+C:\Users\Bingo\Documents\Visual Studio 2015\Projects\Trachtenberg\Trachtenberg\bin\Debug\Trachtenberg.exe
+C:\Users\Bingo\Documents\Visual Studio 2015\Projects\Trachtenberg\Trachtenberg\bin\Debug\Trachtenberg.pdb
+C:\Users\Bingo\Documents\Visual Studio 2015\Projects\Trachtenberg\Trachtenberg\bin\Debug\Trachtenberg.xml
+C:\Users\Bingo\Documents\Visual Studio 2015\Projects\Trachtenberg\Trachtenberg\obj\Debug\Trachtenberg.Form1.resources
+C:\Users\Bingo\Documents\Visual Studio 2015\Projects\Trachtenberg\Trachtenberg\obj\Debug\Trachtenberg.Resources.resources
+C:\Users\Bingo\Documents\Visual Studio 2015\Projects\Trachtenberg\Trachtenberg\obj\Debug\Trachtenberg_v20.vbproj.GenerateResource.Cache
+C:\Users\Bingo\Documents\Visual Studio 2015\Projects\Trachtenberg\Trachtenberg\obj\Debug\Trachtenberg.exe.manifest
+C:\Users\Bingo\Documents\Visual Studio 2015\Projects\Trachtenberg\Trachtenberg\obj\Debug\Trachtenberg.application
+C:\Users\Bingo\Documents\Visual Studio 2015\Projects\Trachtenberg\Trachtenberg\obj\Debug\Trachtenberg_v20.vbprojAssemblyReference.cache
